@@ -7,7 +7,6 @@ import android.view.MenuItem;
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
 /**
  * Activity for displaying credits.
  * This activity shows the credits screen and allows the user to navigate back to the main activity.
